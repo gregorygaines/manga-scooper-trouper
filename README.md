@@ -1,5 +1,5 @@
 # Manga Scooper Trouper 📚 
-Node.js program for scraping manga sites and downloading manga for local viewing pleasures!
+Node.js program written in TypeScropt for scraping manga sites and downloading manga for local viewing pleasures!
 
 # Compatable Sites
 * [MangaPanda](http://mangapanda.com)
