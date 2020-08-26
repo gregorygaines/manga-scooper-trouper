@@ -15,7 +15,7 @@ npm install
 Setup Manga Scooper Trouper as a global CLI using commands:
 ``` 
 git clone https://github.com/gregei/Manga-Scooper-Trouper.git 
-npm install 
+npm install -g
 ```
 
 # Usage
