@@ -26,15 +26,15 @@ Global: scrape <url> [options]
 
 ### Options
 
-#### ```-t, --timeout```
+#### ```-t, -timeout```
 
 The scraping timeout time in milliseconds. The default timeout is 0 for no timeout time.
 
-#### ```-m, max-retries```
+#### ```-m, -max-retries```
 
 Amount of scraping retires before giving up. The default retries is 90.
 
-#### ```-d, download-directory```
+#### ```-d, -download-directory```
 
 Root directory for downloaded manga. Default directory is "manga_downloads".
 
