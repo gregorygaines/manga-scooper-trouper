@@ -1,7 +1,7 @@
 # Manga Scooper Trouper 📚 
 [![Build Status](https://travis-ci.org/gregei/Manga-Scooper-Trouper.svg?branch=master)](https://travis-ci.org/gregei/Manga-Scooper-Trouper)
 
-Node.js program written in TypeScropt for scraping manga sites and downloading manga for local viewing pleasures!
+Node.js program written in TypeScript for scraping manga sites and downloading manga for local viewing pleasures!
 
 # Compatable Sites
 * [MangaPanda](http://mangapanda.com)
